@@ -26,7 +26,7 @@ Este desarrollo implementa el modelado y la abstracción de entidades de hardwar
 
 ###  Clonar este repositorio:
 ```bash
-git clone https://github.com/Ailuna77/Actvidad-5-Modelado-de-Datos-Struct-y-Punteros
+git clone https://github.com/Ailuna77/Actvidad-5-Modelado-de-Datos-Struct-y-Punteros.git
 ```
 
 ### Posicionarse en el directorio raíz correspondiente a la práctica:
